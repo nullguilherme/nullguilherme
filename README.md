@@ -16,14 +16,6 @@ Desenvolvedor apaixonado por criar soluções digitais! Sempre buscando aprender
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[seu-usuario]&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario]&layout=compact&langs_count=5&theme=dark"/>
-</div>
-
----
 
 <div align="center">
   <i>Sempre em busca de novos desafios! 🚀</i>
